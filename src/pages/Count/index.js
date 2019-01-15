@@ -5,7 +5,6 @@ class Count extends Component {
         count:10
     }
     incrementar=()=>{
-
     const count=this.state.count +1
     this.setState({ count  })
     }

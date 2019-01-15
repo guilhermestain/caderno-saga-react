@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.layout {
+    background: url('./escola_saga.png');
+    background-repeat: no-repeat;
+    background-size:100%;
+    bottom: 0;
+    color: black;
+    left: 0;
+    overflow: auto;
+    padding: 3em;
+    position: absolute;
+    right: 0;
+    text-align: center;
+    top: 0;
+    background-size: cover;
+
+}
+.caderno{
+    text-align: center;
+}
+
+.title {
+    color: brown;
+    margin: 0px 0px 50px;
+}
+.guilherme{
+    text-align: center;
+    margin: 0px 0px 50px;
+}
+.notebook{
+        border:4px;
+        border-radius: 7px;
+        background: gray; 
+}

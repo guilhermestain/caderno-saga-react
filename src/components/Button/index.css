@@ -1,9 +1,12 @@
-.buttonStyle {
-    background: red;
+.buttonSoma{
+    background: brown;
     padding: 14px 30px;
     color: white;
     border: none;
     border-radius: 4px;
     font-size: 1em;
     margin: 12px;
+}
+.background{
+    background-color: crimson;
 }

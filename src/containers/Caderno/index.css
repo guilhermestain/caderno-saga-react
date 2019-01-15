@@ -1,0 +1,17 @@
+.caderno{
+    text-align: center;
+}
+.title {
+    color: brown;
+    margin: 0px 0px 50px;
+}
+.guilherme{
+    text-align: center;
+    margin: 0px 0px 50px;
+}
+.notebook{
+        border:4px;
+        border-radius: 7px;
+        background: gray;
+        font-size: 15px; 
+}
