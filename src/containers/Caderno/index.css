@@ -2,17 +2,25 @@
     text-align: center;
 }
 .title {
-    color: brown;
+    color: rgb(179, 13, 13);
+    font-size: 50px;
     margin: 0px 0px 50px;
 }
 .guilherme{
+    font-weight: bold;
+    color: rgb(192, 20, 20);
     text-align: center;
+    font-size: 25px;
     margin: 0px 0px 50px;
 }
 .notebook{
         border:4px;
         border-radius: 7px;
-        background: gray;
-        font-size: 14px; 
+        background: rgb(73, 73, 73);
+        font-size: 16px; 
         color: white;
+}
+.conteudo{
+    margin: 0px 0px 50px;
+
 }

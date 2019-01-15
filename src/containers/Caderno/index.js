@@ -10,7 +10,7 @@ const Caderno =(props)=>(
     <h2>Guilherme Stain - SBC - 4602A</h2>
       </div>
       <div > 
-    <textarea id="2" className="notebook"rows="7" cols="60"  onChange={e => props.handleConteudo(e)}></textarea>
+    <textarea id="2" className="notebook"rows="14" cols="120"  onChange={e => props.handleConteudo(e)}></textarea>
     </div>
 </div>
 )
