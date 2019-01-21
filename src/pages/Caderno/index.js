@@ -12,7 +12,7 @@ class Caderno extends Component{
 
     salvar = () => {
         localStorage.setItem('caderno', this.state.conteudo)
-    }
+    } 
 
     render(){
         return (
